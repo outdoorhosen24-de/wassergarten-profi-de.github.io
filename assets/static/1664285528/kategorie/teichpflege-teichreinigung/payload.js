@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/teichpflege-teichreinigung", {data:[{_img:{}}],fetch:{},mutations:void 0});

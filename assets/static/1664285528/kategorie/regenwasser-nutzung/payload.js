@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/regenwasser-nutzung", {data:[{_img:{}}],fetch:{},mutations:void 0});
