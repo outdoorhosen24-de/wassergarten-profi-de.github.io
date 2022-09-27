@@ -1,107 +1,254 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "rund um den teich",
+        "name": "Rund um den Teich",
+        "slug": "rund-um-den-teich",
+        "productCategory": "Rund um den Teich",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "teichpflanzen",
+        "name": "Teichpflanzen",
+        "slug": "teichpflanzen",
+        "productCategory": "Teichpflanzen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "schwimmpflanzen & sauerstoffpflanzen",
+        "name": "Schwimmpflanzen & Sauerstoffpflanzen",
+        "slug": "schwimmpflanzen-sauerstoffpflanzen",
+        "productCategory": "Schwimmpflanzen & Sauerstoffpflanzen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "teichbeleuchtung",
+        "name": "Teichbeleuchtung",
+        "slug": "teichbeleuchtung",
+        "productCategory": "Teichbeleuchtung",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "kalmus",
+        "name": "Kalmus",
+        "slug": "kalmus",
+        "productCategory": "Kalmus",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "seerose",
+        "name": "Seerose",
+        "slug": "seerose",
+        "productCategory": "Seerose",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "teichdeko & wasserspiele",
+        "name": "Teichdeko & Wasserspiele",
+        "slug": "teichdeko-wasserspiele",
+        "productCategory": "Teichdeko & Wasserspiele",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "teichbelüftung",
+        "name": "Teichbelüftung",
+        "slug": "teichbeluftung",
+        "productCategory": "Teichbelüftung",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "teichbecken & bachläufe",
+        "name": "Teichbecken & Bachläufe",
+        "slug": "teichbecken-bachlaufe",
+        "productCategory": "Teichbecken & Bachläufe",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "gartenbrunnen",
+        "name": "Gartenbrunnen",
+        "slug": "gartenbrunnen",
+        "productCategory": "Gartenbrunnen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "bewässerungssysteme",
+        "name": "Bewässerungssysteme",
+        "slug": "bewasserungssysteme",
+        "productCategory": "Bewässerungssysteme",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "micro-drip-systeme",
+        "name": "Micro-Drip-Systeme",
+        "slug": "micro-drip-systeme",
+        "productCategory": "Micro-Drip-Systeme",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "teichpflege & teichreinigung",
+        "name": "Teichpflege & Teichreinigung",
+        "slug": "teichpflege-teichreinigung",
+        "productCategory": "Teichpflege & Teichreinigung",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "teichfolien & zubehör",
+        "name": "Teichfolien & Zubehör",
+        "slug": "teichfolien-zubehor",
+        "productCategory": "Teichfolien & Zubehör",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "regenwasser-nutzung",
+        "name": "Regenwasser-Nutzung",
+        "slug": "regenwasser-nutzung",
+        "productCategory": "Regenwasser-Nutzung",
+        "subCategories": []
+    },
+    {
+        "key": "regentonnen & wasserzapfstellen",
+        "name": "Regentonnen & Wasserzapfstellen",
+        "slug": "regentonnen-wasserzapfstellen",
+        "productCategory": "Regentonnen & Wasserzapfstellen",
+        "subCategories": []
+    },
+    {
+        "key": "sumpfdotterblume",
+        "name": "Sumpfdotterblume",
+        "slug": "sumpfdotterblume",
+        "productCategory": "Sumpfdotterblume",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für teichbepflanzung",
+        "name": "Zubehör für Teichbepflanzung",
+        "slug": "zubehor-fur-teichbepflanzung",
+        "productCategory": "Zubehör für Teichbepflanzung",
+        "subCategories": []
+    },
+    {
+        "key": "anschlüsse & kupplungen",
+        "name": "Anschlüsse & Kupplungen",
+        "slug": "anschlusse-kupplungen",
+        "productCategory": "Anschlüsse & Kupplungen",
+        "subCategories": []
+    },
+    {
+        "key": "sprinkler-systeme",
+        "name": "Sprinkler-Systeme",
+        "slug": "sprinkler-systeme",
+        "productCategory": "Sprinkler-Systeme",
+        "subCategories": []
+    },
+    {
+        "key": "regner",
+        "name": "Regner",
+        "slug": "regner",
+        "productCategory": "Regner",
+        "subCategories": []
+    },
+    {
+        "key": "gartenschläuche & gartenschlauchwagen",
+        "name": "Gartenschläuche & Gartenschlauchwagen",
+        "slug": "gartenschlauche-gartenschlauchwagen",
+        "productCategory": "Gartenschläuche & Gartenschlauchwagen",
+        "subCategories": []
+    },
+    {
+        "key": "gartenschlauchwagen",
+        "name": "Gartenschlauchwagen",
+        "slug": "gartenschlauchwagen",
+        "productCategory": "Gartenschlauchwagen",
+        "subCategories": []
+    },
+    {
+        "key": "pumpen & hauswasserwerke",
+        "name": "Pumpen & Hauswasserwerke",
+        "slug": "pumpen-hauswasserwerke",
+        "productCategory": "Pumpen & Hauswasserwerke",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-pumpen & hauswasserwerke",
+        "name": "Elektro-Pumpen & Hauswasserwerke",
+        "slug": "elektro-pumpen-hauswasserwerke",
+        "productCategory": "Elektro-Pumpen & Hauswasserwerke",
+        "subCategories": []
+    },
+    {
+        "key": "bewässerungscomputer",
+        "name": "Bewässerungscomputer",
+        "slug": "bewasserungscomputer",
+        "productCategory": "Bewässerungscomputer",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für regentonnen & wasserzapfstellen",
+        "name": "Zubehör für Regentonnen & Wasserzapfstellen",
+        "slug": "zubehor-fur-regentonnen-wasserzapfstellen",
+        "productCategory": "Zubehör für Regentonnen & Wasserzapfstellen",
+        "subCategories": []
+    },
+    {
+        "key": "gartenschläuche",
+        "name": "Gartenschläuche",
+        "slug": "gartenschlauche",
+        "productCategory": "Gartenschläuche",
+        "subCategories": []
+    },
+    {
+        "key": "gartenspritzen & gartenbrausen",
+        "name": "Gartenspritzen & Gartenbrausen",
+        "slug": "gartenspritzen-gartenbrausen",
+        "productCategory": "Gartenspritzen & Gartenbrausen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere teichpflanzen",
+        "name": "Weitere Teichpflanzen",
+        "slug": "weitere-teichpflanzen",
+        "productCategory": "Weitere Teichpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für pumpen & hauswasserwerke",
+        "name": "Zubehör für Pumpen & Hauswasserwerke",
+        "slug": "zubehor-fur-pumpen-hauswasserwerke",
+        "productCategory": "Zubehör für Pumpen & Hauswasserwerke",
+        "subCategories": []
+    },
+    {
+        "key": "kaltwassersysteme",
+        "name": "Kaltwassersysteme",
+        "slug": "kaltwassersysteme",
+        "productCategory": "Kaltwassersysteme",
+        "subCategories": []
+    },
+    {
+        "key": "teichpumpen & filter",
+        "name": "Teichpumpen & Filter",
+        "slug": "teichpumpen-filter",
+        "productCategory": "Teichpumpen & Filter",
+        "subCategories": []
+    },
+    {
+        "key": "erdtanks",
+        "name": "Erdtanks",
+        "slug": "erdtanks",
+        "productCategory": "Erdtanks",
+        "subCategories": []
+    },
+    {
+        "key": "binse",
+        "name": "Binse",
+        "slug": "binse",
+        "productCategory": "Binse",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für erdtanks",
+        "name": "Zubehör für Erdtanks",
+        "slug": "zubehor-fur-erdtanks",
+        "productCategory": "Zubehör für Erdtanks",
         "subCategories": []
     }
 ]

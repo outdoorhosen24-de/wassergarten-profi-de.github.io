@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "obi living garden",
+        "name": "OBI Living Garden",
+        "slug": "obi-living-garden",
+        "productCategory": "OBI Living Garden",
+        "localThumb": "/assets/images/hersteller/obi-living-garden.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "oase",
+        "name": "Oase",
+        "slug": "oase",
+        "productCategory": "Oase",
+        "localThumb": "/assets/images/hersteller/oase.webp"
     },
     {
         "key": "sonstige",
@@ -21,39 +21,207 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "ubbink",
+        "name": "Ubbink",
+        "slug": "ubbink",
+        "productCategory": "Ubbink",
+        "localThumb": "/assets/images/hersteller/ubbink.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "heissner",
+        "name": "Heissner",
+        "slug": "heissner",
+        "productCategory": "Heissner",
+        "localThumb": "/assets/images/hersteller/heissner.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "pontec",
+        "name": "pontec",
+        "slug": "pontec",
+        "productCategory": "pontec",
+        "localThumb": "/assets/images/hersteller/pontec.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "vt",
+        "name": "VT",
+        "slug": "vt",
+        "productCategory": "VT",
+        "localThumb": "/assets/images/hersteller/vt.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "granimex",
+        "name": "Granimex",
+        "slug": "granimex",
+        "productCategory": "Granimex",
+        "localThumb": "/assets/images/hersteller/granimex.webp"
+    },
+    {
+        "key": "acquaarte",
+        "name": "AcquaArte",
+        "slug": "acquaarte",
+        "productCategory": "AcquaArte",
+        "localThumb": "/assets/images/hersteller/acquaarte.webp"
+    },
+    {
+        "key": "velda",
+        "name": "Velda",
+        "slug": "velda",
+        "productCategory": "Velda",
+        "localThumb": "/assets/images/hersteller/velda.webp"
+    },
+    {
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
+    },
+    {
+        "key": "tetra",
+        "name": "Tetra",
+        "slug": "tetra",
+        "productCategory": "Tetra",
+        "localThumb": "/assets/images/hersteller/tetra.webp"
+    },
+    {
+        "key": "sera",
+        "name": "Sera",
+        "slug": "sera",
+        "productCategory": "Sera",
+        "localThumb": "/assets/images/hersteller/sera.webp"
+    },
+    {
+        "key": "bellissa",
+        "name": "Bellissa",
+        "slug": "bellissa",
+        "productCategory": "Bellissa",
+        "localThumb": "/assets/images/hersteller/bellissa.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "4rain",
+        "name": "4rain",
+        "slug": "4rain",
+        "productCategory": "4rain",
+        "localThumb": "/assets/images/hersteller/4rain.webp"
+    },
+    {
+        "key": "garantia",
+        "name": "Garantia",
+        "slug": "garantia",
+        "productCategory": "Garantia",
+        "localThumb": "/assets/images/hersteller/garantia.webp"
+    },
+    {
+        "key": "arves",
+        "name": "Arves",
+        "slug": "arves",
+        "productCategory": "Arves",
+        "localThumb": "/assets/images/hersteller/arves.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
+    },
+    {
+        "key": "fiskars",
+        "name": "Fiskars",
+        "slug": "fiskars",
+        "productCategory": "Fiskars",
+        "localThumb": "/assets/images/hersteller/fiskars.webp"
+    },
+    {
+        "key": "steuber",
+        "name": "Steuber",
+        "slug": "steuber",
+        "productCategory": "Steuber",
+        "localThumb": "/assets/images/hersteller/steuber.webp"
+    },
+    {
+        "key": "kärcher",
+        "name": "Kärcher",
+        "slug": "kaercher",
+        "productCategory": "Kärcher",
+        "localThumb": "/assets/images/hersteller/kaercher.webp"
+    },
+    {
+        "key": "makita",
+        "name": "Makita",
+        "slug": "makita",
+        "productCategory": "Makita",
+        "localThumb": "/assets/images/hersteller/makita.webp"
+    },
+    {
+        "key": "zipper",
+        "name": "Zipper",
+        "slug": "zipper",
+        "productCategory": "Zipper",
+        "localThumb": "/assets/images/hersteller/zipper.webp"
+    },
+    {
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "rewatec",
+        "name": "Rewatec",
+        "slug": "rewatec",
+        "productCategory": "Rewatec",
+        "localThumb": "/assets/images/hersteller/rewatec.webp"
+    },
+    {
+        "key": "geka",
+        "name": "Geka",
+        "slug": "geka",
+        "productCategory": "Geka",
+        "localThumb": "/assets/images/hersteller/geka.webp"
+    },
+    {
+        "key": "wolf garten",
+        "name": "Wolf Garten",
+        "slug": "wolf-garten",
+        "productCategory": "Wolf Garten",
+        "localThumb": "/assets/images/hersteller/wolf-garten.webp"
+    },
+    {
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
+    },
+    {
+        "key": "rottenecker",
+        "name": "Rottenecker",
+        "slug": "rottenecker",
+        "productCategory": "Rottenecker",
+        "localThumb": "/assets/images/hersteller/rottenecker.webp"
+    },
+    {
+        "key": "söll",
+        "name": "Söll",
+        "slug": "soell",
+        "productCategory": "Söll",
+        "localThumb": "/assets/images/hersteller/soell.webp"
+    },
+    {
+        "key": "jbl",
+        "name": "JBL",
+        "slug": "jbl",
+        "productCategory": "JBL",
+        "localThumb": "/assets/images/hersteller/jbl.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +231,10 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "elho",
+        "name": "Elho",
+        "slug": "elho",
+        "productCategory": "Elho",
+        "localThumb": "/assets/images/hersteller/elho.webp"
     }
 ]
