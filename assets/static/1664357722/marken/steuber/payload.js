@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/steuber", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/flexibler-gartenschlauch-83m-gruen-inkl-brause-und-anschluss-stueck-steuber-9513771-1.jpg":"\u002Fassets\u002Fimages\u002Fflexibler-gartenschlauch-83m-gruen-inkl-brause-und-anschluss-stueck-steuber-9513771-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/zubehor-fur-erdtanks", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/garantia-wasseranschlussbox-extern-garantia-4196168-1.jpg":"\u002Fassets\u002Fimages\u002Fgarantia-wasseranschlussbox-extern-garantia-4196168-1.webp"}}],fetch:{},mutations:void 0});

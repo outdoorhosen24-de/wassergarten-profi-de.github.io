@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/cmi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/cmi-teichschlammsauger-1-600-w-30-l-cmi-4284394-1.jpg":"\u002Fassets\u002Fimages\u002Fcmi-teichschlammsauger-1-600-w-30-l-cmi-4284394-1.webp"}}],fetch:{},mutations:void 0});

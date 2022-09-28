@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/rottenecker", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rottenecker-bronze-figur-elonie-rottenecker-8089773-1.jpg":"\u002Fassets\u002Fimages\u002Frottenecker-bronze-figur-elonie-rottenecker-8089773-1.webp"}}],fetch:{},mutations:void 0});

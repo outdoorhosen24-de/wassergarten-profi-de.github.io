@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/dobar", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/groszer-design-gartenbrunnen-mit-4-stufen-387-cm-x-323-cm-x-803-cm-dobar-3033891-1.jpg":"\u002Fassets\u002Fimages\u002Fgroszer-design-gartenbrunnen-mit-4-stufen-387-cm-x-323-cm-x-803-cm-dobar-3033891-1.webp"}}],fetch:{},mutations:void 0});
