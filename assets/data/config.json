@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "wassergarten-profi.de",
+    "hostname": "https://www.wassergarten-profi.de/",
+    "email": "wassergarten-profi.desurrealnetworks.io",
+    "organization": "wassergarten-profi.de",
+    "logoText": "Wassergarten-profi.de",
+    "title": "Wasser im Garten",
+    "subline": "Der Online Shop f\u00fcr Wasser im Garten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4794111",
+        "7172000",
+        "2521573",
+        "3636941",
+        "2521466",
+        "8727406"
+    ],
+    "winnerProducts": [
+        "9418922",
+        "5087135",
+        "2048874"
+    ],
+    "featuredCategories": [
+        "Teichpflanzen",
+        "Pumpen & Hauswasserwerke",
+        "Regenwasser-Nutzung",
+        "Micro-Drip-Systeme",
+        "Weitere Teichpflanzen",
+        "Kaltwassersysteme"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wasser im Garten",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die G\u00e4rtnerei ist ein Gesch\u00e4ft, das sich auf Wasserpflanzen im Garten spezialisiert hat. Sie haben eine gro\u00dfe Auswahl an Pflanzen und Zubeh\u00f6r, um Ihren Garten zu versch\u00f6nern.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Wasser im Garten: Alles f\u00fcr Ihren Garten",
+            "metaDescription": "Wasser im Garten ist ein Online-Shop, der alles rund um das Thema Wasser im Garten bietet. Von Pumpsystemen \u00fcber Bew\u00e4sserungsanlagen bis hin zu Gartendeko.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Wasser im Garten: Vorteile und Tipps",
+                    "text": "Wasser ist ein wichtiger Bestandteil eines jeden Gartens. Es hilft, die Pflanzen zu n\u00e4hren und sie gesund zu halten. Wasser kann auch dazu beitragen, den Garten sauber und ordentlich zu halten. Es ist jedoch wichtig, dass man das Wasser richtig im Garten einsetzt, damit man nicht zu viel oder zu wenig davon hat.\n\nZun\u00e4chst einmal ist es wichtig, den Garten richtig zu bew\u00e4ssern. Wenn Sie zu viel Wasser verwenden, k\u00f6nnen die Pflanzen ertrinken. Wenn Sie zu wenig Wasser verwenden, k\u00f6nnen die Pflanzen vertrocknen. Beide Szenarien sind unerw\u00fcnscht. Es ist am besten, den Garten in der fr\u00fchen Morgend\u00e4mmerung oder am sp\u00e4ten Abend zu bew\u00e4ssern, wenn die Sonne nicht so stark ist. Dies verhindert, dass das Wasser sofort verdunstet.\n\nEin weiterer wichtiger Aspekt beim Gie\u00dfen ist, dass Sie das richtige Wasser verwenden. Regenwasser ist ideal, da es kostenlos ist und keine Chemikalien enth\u00e4lt. Wenn Sie jedoch kein Regenwasser verwenden k\u00f6nnen, sollten Sie destilliertes Wasser oder abgekochtes Wasser verwenden. Diese Wasserquellen enthalten keine Chemikalien, die Ihre Pflanzen sch\u00e4digen k\u00f6nnten.\n\nWenn Sie im Garten pflanzen, ist es auch wichtig, dass Sie die Pflanzen richtig gie\u00dfen. Die meisten Pflanzen m\u00f6gen es nicht, wenn ihre"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Wasser im Garten Shop",
+            "metaDescription": "Wasser im Garten Shop - Alles rund um das Thema Wasser im Garten. Ob Brunnen, Teich, Regentonne oder Gartenpumpe.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Wasser im Garten: Die besten Hersteller",
+            "metaDescription": "Wasser im Garten ist ein wichtiger Bestandteil eines jeden Gartens. Wasser im Garten kann f\u00fcr die Bew\u00e4sserung, die Reinigung und die Dekoration verwendet werden.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT im Garten: Wasser f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihren Garten. $KATEGORIE ist einfach zu installieren und sorgt f\u00fcr eine optimale Wasserversorgung Ihrer Pflanzen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Wasser im Garten",
+        "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. Tipps und Tricks f\u00fcr die optimale Bew\u00e4sserung von Pflanzen und Rasen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Wasser im Garten. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten und L\u00f6sungen f\u00fcr Ihren Garten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Wasser im Garten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Wasser im Garten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Wasser im Garten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
