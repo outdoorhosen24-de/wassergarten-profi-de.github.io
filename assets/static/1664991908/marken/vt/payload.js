@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/vt", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/vt-led-teichbeleuchtung-mit-3-spots-pond-led-lights-vt-9866831-1.jpg":"\u002Fassets\u002Fimages\u002Fvt-led-teichbeleuchtung-mit-3-spots-pond-led-lights-vt-9866831-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/makita", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/makita-tauchpumpe-klar-und-schmutzwasser-pf1010-makita-4945937-1.jpg":"\u002Fassets\u002Fimages\u002Fmakita-tauchpumpe-klar-und-schmutzwasser-pf1010-makita-4945937-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/zipper", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/zipper-hauswasserwerk-zi-hww1200n-zipper-6340152-1.jpg":"\u002Fassets\u002Fimages\u002Fzipper-hauswasserwerk-zi-hww1200n-zipper-6340152-1.webp"}}],fetch:{},mutations:void 0});
