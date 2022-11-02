@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "wassergarten-profi.de",
     "hostname": "https://www.wassergarten-profi.de/",
     "email": "wassergarten-profi.desurrealnetworks.io",
     "organization": "wassergarten-profi.de",
     "logoText": "Wassergarten-profi.de",
     "title": "Wasser im Garten",
-    "subline": "Der Online Shop f\u00fcr Wasser im Garten",
+    "subline": "Der Online Shop für Wasser im Garten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,15 +46,15 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wasser im Garten",
-        "featureText": "Die G\u00e4rtnerei ist ein Gesch\u00e4ft, das sich auf Wasserpflanzen im Garten spezialisiert hat. Sie haben eine gro\u00dfe Auswahl an Pflanzen und Zubeh\u00f6r, um Ihren Garten zu versch\u00f6nern.",
+        "featureText": "Die Gärtnerei ist ein Geschäft, das sich auf Wasserpflanzen im Garten spezialisiert hat. Sie haben eine große Auswahl an Pflanzen und Zubehör, um Ihren Garten zu verschönern.",
         "index": {
-            "title": "Wasser im Garten: Alles f\u00fcr Ihren Garten",
-            "metaDescription": "Wasser im Garten ist ein Online-Shop, der alles rund um das Thema Wasser im Garten bietet. Von Pumpsystemen \u00fcber Bew\u00e4sserungsanlagen bis hin zu Gartendeko.",
+            "title": "Wasser im Garten: Alles für Ihren Garten",
+            "metaDescription": "Wasser im Garten ist ein Online-Shop, der alles rund um das Thema Wasser im Garten bietet. Von Pumpsystemen über Bewässerungsanlagen bis hin zu Gartendeko.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Wasser im Garten: Vorteile und Tipps",
-                    "text": "Wasser ist ein wichtiger Bestandteil eines jeden Gartens. Es hilft, die Pflanzen zu n\u00e4hren und sie gesund zu halten. Wasser kann auch dazu beitragen, den Garten sauber und ordentlich zu halten. Es ist jedoch wichtig, dass man das Wasser richtig im Garten einsetzt, damit man nicht zu viel oder zu wenig davon hat.\n\nZun\u00e4chst einmal ist es wichtig, den Garten richtig zu bew\u00e4ssern. Wenn Sie zu viel Wasser verwenden, k\u00f6nnen die Pflanzen ertrinken. Wenn Sie zu wenig Wasser verwenden, k\u00f6nnen die Pflanzen vertrocknen. Beide Szenarien sind unerw\u00fcnscht. Es ist am besten, den Garten in der fr\u00fchen Morgend\u00e4mmerung oder am sp\u00e4ten Abend zu bew\u00e4ssern, wenn die Sonne nicht so stark ist. Dies verhindert, dass das Wasser sofort verdunstet.\n\nEin weiterer wichtiger Aspekt beim Gie\u00dfen ist, dass Sie das richtige Wasser verwenden. Regenwasser ist ideal, da es kostenlos ist und keine Chemikalien enth\u00e4lt. Wenn Sie jedoch kein Regenwasser verwenden k\u00f6nnen, sollten Sie destilliertes Wasser oder abgekochtes Wasser verwenden. Diese Wasserquellen enthalten keine Chemikalien, die Ihre Pflanzen sch\u00e4digen k\u00f6nnten.\n\nWenn Sie im Garten pflanzen, ist es auch wichtig, dass Sie die Pflanzen richtig gie\u00dfen. Die meisten Pflanzen m\u00f6gen es nicht, wenn ihre"
+                    "text": "Wasser ist ein wichtiger Bestandteil eines jeden Gartens. Es hilft, die Pflanzen zu nähren und sie gesund zu halten. Wasser kann auch dazu beitragen, den Garten sauber und ordentlich zu halten. Es ist jedoch wichtig, dass man das Wasser richtig im Garten einsetzt, damit man nicht zu viel oder zu wenig davon hat.\n\nZunächst einmal ist es wichtig, den Garten richtig zu bewässern. Wenn Sie zu viel Wasser verwenden, können die Pflanzen ertrinken. Wenn Sie zu wenig Wasser verwenden, können die Pflanzen vertrocknen. Beide Szenarien sind unerwünscht. Es ist am besten, den Garten in der frühen Morgendämmerung oder am späten Abend zu bewässern, wenn die Sonne nicht so stark ist. Dies verhindert, dass das Wasser sofort verdunstet.\n\nEin weiterer wichtiger Aspekt beim Gießen ist, dass Sie das richtige Wasser verwenden. Regenwasser ist ideal, da es kostenlos ist und keine Chemikalien enthält. Wenn Sie jedoch kein Regenwasser verwenden können, sollten Sie destilliertes Wasser oder abgekochtes Wasser verwenden. Diese Wasserquellen enthalten keine Chemikalien, die Ihre Pflanzen schädigen könnten.\n\nWenn Sie im Garten pflanzen, ist es auch wichtig, dass Sie die Pflanzen richtig gießen. Die meisten Pflanzen mögen es nicht, wenn ihre"
                 }
             ]
         },
@@ -65,21 +65,21 @@
         },
         "hersteller": {
             "title": "Wasser im Garten: Die besten Hersteller",
-            "metaDescription": "Wasser im Garten ist ein wichtiger Bestandteil eines jeden Gartens. Wasser im Garten kann f\u00fcr die Bew\u00e4sserung, die Reinigung und die Dekoration verwendet werden.",
+            "metaDescription": "Wasser im Garten ist ein wichtiger Bestandteil eines jeden Gartens. Wasser im Garten kann für die Bewässerung, die Reinigung und die Dekoration verwendet werden.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT im Garten: Wasser f\u00fcr Ihren Garten",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihren Garten. $KATEGORIE ist einfach zu installieren und sorgt f\u00fcr eine optimale Wasserversorgung Ihrer Pflanzen.",
+        "defaultTitle": "$PRODUKT im Garten: Wasser für Ihren Garten",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihren Garten. $KATEGORIE ist einfach zu installieren und sorgt für eine optimale Wasserversorgung Ihrer Pflanzen.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
@@ -87,7 +87,7 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Wasser im Garten",
-        "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. Tipps und Tricks f\u00fcr die optimale Bew\u00e4sserung von Pflanzen und Rasen.",
+        "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. Tipps und Tricks für die optimale Bewässerung von Pflanzen und Rasen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Wasser im Garten. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten und L\u00f6sungen f\u00fcr Ihren Garten.",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Wasser im Garten. Wir bieten Ihnen eine große Auswahl an Produkten und Lösungen für Ihren Garten.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
