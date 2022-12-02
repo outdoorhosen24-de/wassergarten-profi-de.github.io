@@ -51,12 +51,15 @@
             "title": "Wasser im Garten: Alles für Ihren Garten",
             "metaDescription": "Wasser im Garten ist ein Online-Shop, der alles rund um das Thema Wasser im Garten bietet. Von Pumpsystemen über Bewässerungsanlagen bis hin zu Gartendeko.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Wasser im Garten: Vorteile und Tipps",
-                    "text": "Wasser ist ein wichtiger Bestandteil eines jeden Gartens. Es hilft, die Pflanzen zu nähren und sie gesund zu halten. Wasser kann auch dazu beitragen, den Garten sauber und ordentlich zu halten. Es ist jedoch wichtig, dass man das Wasser richtig im Garten einsetzt, damit man nicht zu viel oder zu wenig davon hat.\n\nZunächst einmal ist es wichtig, den Garten richtig zu bewässern. Wenn Sie zu viel Wasser verwenden, können die Pflanzen ertrinken. Wenn Sie zu wenig Wasser verwenden, können die Pflanzen vertrocknen. Beide Szenarien sind unerwünscht. Es ist am besten, den Garten in der frühen Morgendämmerung oder am späten Abend zu bewässern, wenn die Sonne nicht so stark ist. Dies verhindert, dass das Wasser sofort verdunstet.\n\nEin weiterer wichtiger Aspekt beim Gießen ist, dass Sie das richtige Wasser verwenden. Regenwasser ist ideal, da es kostenlos ist und keine Chemikalien enthält. Wenn Sie jedoch kein Regenwasser verwenden können, sollten Sie destilliertes Wasser oder abgekochtes Wasser verwenden. Diese Wasserquellen enthalten keine Chemikalien, die Ihre Pflanzen schädigen könnten.\n\nWenn Sie im Garten pflanzen, ist es auch wichtig, dass Sie die Pflanzen richtig gießen. Die meisten Pflanzen mögen es nicht, wenn ihre"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Wasser im Garten: Vorteile und Tipps",
+                        "text": "Wasser ist ein wichtiger Bestandteil eines jeden Gartens. Es hilft, die Pflanzen zu nähren und sie gesund zu halten. Wasser kann auch dazu beitragen, den Garten sauber und ordentlich zu halten. Es ist jedoch wichtig, dass man das Wasser richtig im Garten einsetzt, damit man nicht zu viel oder zu wenig davon hat.\n\nZunächst einmal ist es wichtig, den Garten richtig zu bewässern. Wenn Sie zu viel Wasser verwenden, können die Pflanzen ertrinken. Wenn Sie zu wenig Wasser verwenden, können die Pflanzen vertrocknen. Beide Szenarien sind unerwünscht. Es ist am besten, den Garten in der frühen Morgendämmerung oder am späten Abend zu bewässern, wenn die Sonne nicht so stark ist. Dies verhindert, dass das Wasser sofort verdunstet.\n\nEin weiterer wichtiger Aspekt beim Gießen ist, dass Sie das richtige Wasser verwenden. Regenwasser ist ideal, da es kostenlos ist und keine Chemikalien enthält. Wenn Sie jedoch kein Regenwasser verwenden können, sollten Sie destilliertes Wasser oder abgekochtes Wasser verwenden. Diese Wasserquellen enthalten keine Chemikalien, die Ihre Pflanzen schädigen könnten.\n\nWenn Sie im Garten pflanzen, ist es auch wichtig, dass Sie die Pflanzen richtig gießen. Die meisten Pflanzen mögen es nicht, wenn ihre"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Wasser im Garten Shop",
