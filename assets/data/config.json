@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "wassergarten-profi.de",
     "hostname": "https://www.wassergarten-profi.de/",
     "email": "wassergarten-profi.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wasser im Garten",
-        "featureText": "Die Gärtnerei ist ein Geschäft, das sich auf Wasserpflanzen im Garten spezialisiert hat. Sie haben eine große Auswahl an Pflanzen und Zubehör, um Ihren Garten zu verschönern.",
+        "featureText": "<p>Willkommen in unserem Shop! Bei uns finden Sie ein umfangreichens Angebot zum Thema Wasser in Ihrem Garten! Ein kleiner nicht abschließender Abriss unseres Angebots:</p>\n<p>- Alles rund um den Teich, etwa Becken, Folie, Pumpen, Beleuchtung, Belüftung, Reinigung etc.</p>\n<p>- Eine große Auswahl an Wasspflanzen, wie Teichpflanzen, Schwimmpflanzen, Seerosen und viele mehr.</p>\n<p>- Regentonnen & Wasserzapfstellen, Sprinkler-Systeme, Gartenschläuche uvm.</p>\n<p>Unser Sortiment ist sortiert in entsprechende Kategorien und nach Herstellern. Klicken Sie sich gerne einmal durch unseren Shop!</p>\n",
         "index": {
-            "title": "Wasser im Garten: Alles für Ihren Garten",
-            "metaDescription": "Wasser im Garten ist ein Online-Shop, der alles rund um das Thema Wasser im Garten bietet. Von Pumpsystemen über Bewässerungsanlagen bis hin zu Gartendeko.",
+            "title": "Wasser im Garten | Umfangreiches Sortiment",
+            "metaDescription": "Gartenschläuche • Gartenbrausen • Sprinkler-Systeme • Bewässerungssysteme • Teichbecken, -folie, -beleuchtung, -pumpen, -pflanzen • Gartenbrunnen uvm.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Wasser im Garten Shop",
-            "metaDescription": "Wasser im Garten Shop - Alles rund um das Thema Wasser im Garten. Ob Brunnen, Teich, Regentonne oder Gartenpumpe.",
+            "title": "Wasser im Garten | Der Online Shop",
+            "metaDescription": "Bei uns erhältlich! | Alles rund um das Thema Wasser im Garten | Viele Kategorien wie: Teich, Pflanzen, Bewässerung, Wassertanks uvm. | Bequem online kaufen!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Wasser im Garten: Die besten Hersteller",
-            "metaDescription": "Wasser im Garten ist ein wichtiger Bestandteil eines jeden Gartens. Wasser im Garten kann für die Bewässerung, die Reinigung und die Dekoration verwendet werden.",
+            "metaDescription": "Sie haben ein Projekt, das sich um Wasser im Garten dreht? Bei uns finden Sie die besten Hersteller: Gardena, Kärcher, Bosch, Makita, Fiskars, Einhell uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT im Garten: Wasser für Ihren Garten",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihren Garten. $KATEGORIE ist einfach zu installieren und sorgt für eine optimale Wasserversorgung Ihrer Pflanzen.",
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine gute Wahl für Ihren Garten. Entdecken Sie auch tolle weitere Produkte der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Wasser im Garten",
-        "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. Tipps und Tricks für die optimale Bewässerung von Pflanzen und Rasen.",
+        "defaultTitle": "$KATEGORIE - viele Top Produkte",
+        "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. | Bei uns finden Sie das passende Produkt! | Entdecken Sie auch weitere Kategorien zu Wasser im Garten.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Wasser im Garten. Wir bieten Ihnen eine große Auswahl an Produkten und Lösungen für Ihren Garten.",
+        "defaultTitle": "$HERSTELLER - Top Marken zum fairen Preis",
+        "defaultMetaDescription": "$HERSTELLER ist ein namhafter Hersteller für Produkte im Bereich Wasser im Garten! | Finden Sie bei uns neben $HERSTELLER weitere Top Hersteller!",
         "defaultRobots": "index, follow",
         "brands": [
             {
