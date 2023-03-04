@@ -51,14 +51,14 @@
     {
         "key": "teichbelüftung",
         "name": "Teichbelüftung",
-        "slug": "teichbeluftung",
+        "slug": "teichbelueftung",
         "productCategory": "Teichbelüftung",
         "subCategories": []
     },
     {
         "key": "teichbecken & bachläufe",
         "name": "Teichbecken & Bachläufe",
-        "slug": "teichbecken-bachlaufe",
+        "slug": "teichbecken-bachlaeufe",
         "productCategory": "Teichbecken & Bachläufe",
         "subCategories": []
     },
@@ -72,7 +72,7 @@
     {
         "key": "bewässerungssysteme",
         "name": "Bewässerungssysteme",
-        "slug": "bewasserungssysteme",
+        "slug": "bewaesserungssysteme",
         "productCategory": "Bewässerungssysteme",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "teichfolien & zubehör",
         "name": "Teichfolien & Zubehör",
-        "slug": "teichfolien-zubehor",
+        "slug": "teichfolien-zubehoer",
         "productCategory": "Teichfolien & Zubehör",
         "subCategories": []
     },
@@ -121,14 +121,14 @@
     {
         "key": "zubehör für teichbepflanzung",
         "name": "Zubehör für Teichbepflanzung",
-        "slug": "zubehor-fur-teichbepflanzung",
+        "slug": "zubehoer-fuer-teichbepflanzung",
         "productCategory": "Zubehör für Teichbepflanzung",
         "subCategories": []
     },
     {
         "key": "anschlüsse & kupplungen",
         "name": "Anschlüsse & Kupplungen",
-        "slug": "anschlusse-kupplungen",
+        "slug": "anschluesse-kupplungen",
         "productCategory": "Anschlüsse & Kupplungen",
         "subCategories": []
     },
@@ -149,7 +149,7 @@
     {
         "key": "gartenschläuche & gartenschlauchwagen",
         "name": "Gartenschläuche & Gartenschlauchwagen",
-        "slug": "gartenschlauche-gartenschlauchwagen",
+        "slug": "gartenschlaeuche-gartenschlauchwagen",
         "productCategory": "Gartenschläuche & Gartenschlauchwagen",
         "subCategories": []
     },
@@ -177,21 +177,21 @@
     {
         "key": "bewässerungscomputer",
         "name": "Bewässerungscomputer",
-        "slug": "bewasserungscomputer",
+        "slug": "bewaesserungscomputer",
         "productCategory": "Bewässerungscomputer",
         "subCategories": []
     },
     {
         "key": "zubehör für regentonnen & wasserzapfstellen",
         "name": "Zubehör für Regentonnen & Wasserzapfstellen",
-        "slug": "zubehor-fur-regentonnen-wasserzapfstellen",
+        "slug": "zubehoer-fuer-regentonnen-wasserzapfstellen",
         "productCategory": "Zubehör für Regentonnen & Wasserzapfstellen",
         "subCategories": []
     },
     {
         "key": "gartenschläuche",
         "name": "Gartenschläuche",
-        "slug": "gartenschlauche",
+        "slug": "gartenschlaeuche",
         "productCategory": "Gartenschläuche",
         "subCategories": []
     },
@@ -212,7 +212,7 @@
     {
         "key": "zubehör für pumpen & hauswasserwerke",
         "name": "Zubehör für Pumpen & Hauswasserwerke",
-        "slug": "zubehor-fur-pumpen-hauswasserwerke",
+        "slug": "zubehoer-fuer-pumpen-hauswasserwerke",
         "productCategory": "Zubehör für Pumpen & Hauswasserwerke",
         "subCategories": []
     },
@@ -247,7 +247,7 @@
     {
         "key": "zubehör für erdtanks",
         "name": "Zubehör für Erdtanks",
-        "slug": "zubehor-fur-erdtanks",
+        "slug": "zubehoer-fuer-erdtanks",
         "productCategory": "Zubehör für Erdtanks",
         "subCategories": []
     }
