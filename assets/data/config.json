@@ -1,308 +1,311 @@
 {
-    "configIsReady": true,
-    "domain": "wassergarten-profi.de",
-    "hostname": "https://www.wassergarten-profi.de/",
-    "email": "wassergarten-profi.de@surrealnetworks.io",
-    "organization": "wassergarten-profi.de",
-    "logoText": "Wassergarten-profi.de",
-    "title": "Wasser im Garten",
-    "subline": "Der Online Shop für Wasser im Garten",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "4794111",
-        "7172000",
-        "2521573",
-        "3636941",
-        "2521466",
-        "8727406"
-    ],
-    "winnerProducts": [
-        "9418922",
-        "5087135",
-        "2048874"
-    ],
-    "featuredCategories": [
-        "Teichpflanzen",
-        "Pumpen & Hauswasserwerke",
-        "Regenwasser-Nutzung",
-        "Micro-Drip-Systeme",
-        "Weitere Teichpflanzen",
-        "Kaltwassersysteme"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Wasser im Garten",
-        "featureText": "<p>Willkommen in unserem Shop! Bei uns finden Sie ein umfangreichens Angebot zum Thema Wasser in Ihrem Garten! Ein kleiner nicht abschließender Abriss unseres Angebots:</p>\n<p>- Alles rund um den Teich, etwa Becken, Folie, Pumpen, Beleuchtung, Belüftung, Reinigung etc.</p>\n<p>- Eine große Auswahl an Wasspflanzen, wie Teichpflanzen, Schwimmpflanzen, Seerosen und viele mehr.</p>\n<p>- Regentonnen & Wasserzapfstellen, Sprinkler-Systeme, Gartenschläuche uvm.</p>\n<p>Unser Sortiment ist sortiert in entsprechende Kategorien und nach Herstellern. Klicken Sie sich gerne einmal durch unseren Shop!</p>\n",
-        "index": {
-            "title": "Wasser im Garten | Umfangreiches Sortiment",
-            "metaDescription": "Gartenschläuche • Gartenbrausen • Sprinkler-Systeme • Bewässerungssysteme • Teichbecken, -folie, -beleuchtung, -pumpen, -pflanzen • Gartenbrunnen uvm.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Wassergarten-Profi",
-                        "text": "Herzlich Willkommen auf Wassergarten-Profi, Ihrem Online-Shop für alles rund um das Thema Wasser im Garten. Bei uns finden Sie eine große Auswahl an Produkten, um Ihren Garten in eine Oase der Entspannung zu verwandeln. Ob Sie einen Teich, einen Bachlauf, einen Gartenbrunnen oder eine Teichbeleuchtung möchten, bei uns werden Sie fündig. Wir bieten Ihnen auch eine große Auswahl an Teichpflanzen, Schwimmpflanzen und Sauerstoffpflanzen, um Ihren Teich zu einem Paradies für Fische und andere Wasserlebewesen zu gestalten. Entdecken Sie bei uns die Welt des Wassers im Garten und lassen Sie sich von uns inspirieren."
-                    },
-                    {
-                        "title": "Rund um den Teich",
-                        "text": "Der Bereich '<a href=\"/kategorie/rund-um-den-teich/\" title=\"Rund um den Teich\">Rund um den Teich</a>' beinhaltet alles, was Sie für Ihren Teich benötigen. Hier finden Sie Teichfolien, Teichpumpen und Teichfilter, um Ihren Teich sauber und gesund zu halten. Auch Teichzubehör wie Teichnetze, Teichschutz und Teichböden sind hier erhältlich. Stöbern Sie durch unser umfangreiches Angebot und finden Sie alles, was Sie für Ihren Wasser-Garten benötigen."
-                    },
-                    {
-                        "title": "Teichpflanzen",
-                        "text": "In unserer Kategorie '<a href=\"/kategorie/teichpflanzen/\" title=\"Teichpflanzen\">Teichpflanzen</a>' finden Sie eine große Auswahl an Wasserpflanzen für Ihren Teich. Ob Sie nach Sauerstoffpflanzen, Uferpflanzen oder Schwimmpflanzen suchen, hier werden Sie fündig. Wir bieten eine breite Palette an Teichpflanzen in verschiedenen Größen und Farben, damit Sie Ihren Teich individuell gestalten können. Lassen Sie Ihrer Kreativität freien Lauf und schaffen Sie sich ein wunderschönes Wasserparadies."
-                    },
-                    {
-                        "title": "Schwimmpflanzen & Sauerstoffpflanzen",
-                        "text": "Schwimmpflanzen und Sauerstoffpflanzen sind unverzichtbar für einen gesunden Teich. Sie helfen dabei, das Wasser sauber und klar zu halten und sorgen für eine ausreichende Sauerstoffversorgung. In unserer Kategorie '<a href=\"/kategorie/schwimmpflanzen-sauerstoffpflanzen/\" title=\"Schwimmpflanzen & Sauerstoffpflanzen\">Schwimmpflanzen & Sauerstoffpflanzen</a>' finden Sie eine große Auswahl an Pflanzen, die speziell für den Einsatz im Teich entwickelt wurden. Lassen Sie sich von unserem Angebot inspirieren und gestalten Sie Ihren Teich mit den richtigen Pflanzen."
-                    },
-                    {
-                        "title": "Teichbeleuchtung für eine stilvolle Atmosphäre im Garten",
-                        "text": "Lassen Sie Ihren Teich in einem neuen Licht erstrahlen mit unserer großen Auswahl an Teichbeleuchtung. Ob Sie eine einzelne Lampe oder eine komplette Beleuchtungslösung suchen, bei uns finden Sie alles, was Sie brauchen, um Ihren Garten in eine wunderschöne Oase zu verwandeln. Wählen Sie aus einer Vielzahl von Stilen und Farben, um die perfekte Beleuchtung für Ihren Teich zu finden. Bestellen Sie noch heute und erleben Sie den Unterschied!"
-                    },
-                    {
-                        "title": "Kalmus für eine natürliche Teichumgebung",
-                        "text": "Der Kalmus ist eine wertvolle Pflanze für jeden Teich. Nicht nur, dass es eine attraktive und dekorative Ergänzung zu Ihrem Garten ist, es hilft auch, das Wasser kristallklar zu halten, indem es Algen und andere unerwünschte Pflanzen reduziert. Wir bieten eine große Auswahl an Kalmus in verschiedenen Größen und Farben, um Ihren Teich in eine natürliche Umgebung zu verwandeln. Bestellen Sie noch heute und genießen Sie die Vorteile des Kalmus im eigenen Garten!"
-                    },
-                    {
-                        "title": "Seerosen für eine idyllische Teichumgebung",
-                        "text": "Seerosen sind eine wunderbare Ergänzung zu jedem Teich. Sie schaffen eine idyllische Umgebung, indem sie das Wasser mit ihren großen, weichen Blättern und ihren farbenfrohen Blüten schmücken. Wir bieten eine große Auswahl an Seerosen in verschiedenen Größen und Farben, um Ihren Teich in eine echte Oase zu verwandeln. Bestellen Sie noch heute und erleben Sie die Schönheit der Seerosen im eigenen Garten!"
-                    },
-                    {
-                        "title": "Teichdeko & Wasserspiele",
-                        "text": "Erwecken Sie Ihren Teich mit unseren Teichdeko- und Wasserspiel-Produkten zum Leben. Wir bieten eine große Auswahl an schönen und funktionalen Artikeln, die Ihren Teich nicht nur optisch aufwerten, sondern auch ein besonderes Erlebnis für Sie und Ihre Gäste schaffen werden. Von Springbrunnen bis hin zu Teichfiguren und -laternen - hier finden Sie alles, um Ihren Teich zu einem Highlight im Garten zu machen."
-                    },
-                    {
-                        "title": "Teichbelüftung",
-                        "text": "Eine gute <a href=\"/kategorie/teichbelueftung/\" title=\"Teichbelüftung\">Teichbelüftung</a> ist für ein gesundes Teichökosystem unerlässlich. Wir bieten Ihnen eine große Auswahl an Teichbelüftungssystemen, die Ihnen dabei helfen, das Wasser sauber und klär zu halten. Von Luftpumpen bis hin zu Luftdiffusoren - wir haben die richtige Lösung für jeden Bedarf. Schauen Sie sich jetzt unser Angebot an und verbessern Sie die Wasserqualität in Ihrem Teich."
-                    },
-                    {
-                        "title": "Teichbecken & Bachläufe",
-                        "text": "Erwecken Sie Ihren Garten mit unseren Teichbecken und Bachläufen zum Leben. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihren Traum von einem Wasserparadies im Garten zu verwirklichen. Von Teichbecken bis hin zu Bachläufen - wir haben die richtige Lösung für jeden Bedarf. Schauen Sie sich jetzt unser Angebot an und bringen Sie Abwechslung und Ruhe in Ihren Garten."
-                    },
-                    {
-                        "title": "Gartenbrunnen - Der Wasser-Hingucker im Garten",
-                        "text": "Ein Gartenbrunnen ist das Highlight jedes Gartens. Der Klang von sprudelndem Wasser verleiht dem Garten eine besondere Atmosphäre und sorgt für Entspannung. Bei uns finden Sie eine große Auswahl an Gartenbrunnen in verschiedenen Größen, Formen und Materialien. Von klassischen Brunnen aus Stein bis hin zu modernen Edelstahl-Brunnen – hier werden Sie garantiert fündig. Lassen Sie sich von uns inspirieren und schaffen Sie sich eine Oase der Ruhe im eigenen Garten."
-                    },
-                    {
-                        "title": "Bewässerungssysteme - Pflanzen und Garten perfekt versorgen",
-                        "text": "Eine ausreichende Bewässerung ist für einen gesunden Garten unerlässlich. Mit einem Bewässerungssystem können Sie ganz einfach und bequem Ihre Pflanzen und den Garten bewässern. Ob automatisches Bewässerungssystem oder manuelle Bewässerung – bei uns finden Sie das passende System für Ihren Garten. Überzeugen Sie sich selbst von der Vielfalt an Bewässerungslösungen und optimieren Sie die Wasserversorgung Ihres Gartens."
-                    },
-                    {
-                        "title": "Micro-Drip-Systeme - Wasser sparen im Garten",
-                        "text": "Mit einem Micro-Drip-System können Sie Wasser im Garten effizient und gezielt einsetzen. Die Tropfeinrichtung sorgt dafür, dass das Wasser direkt an der Wurzel der Pflanzen ankommt und nicht unnötig verdunstet. So sparen Sie nicht nur Wasser, sondern auch Zeit und Mühe bei der Bewässerung. Entdecken Sie die Vorteile von Micro-Drip-Systemen und machen Sie Ihren Garten zu einem ökologisch nachhaltigen Paradies."
-                    },
-                    {
-                        "title": "Teichpflege & Teichreinigung",
-                        "text": "Wasser im Garten ist eine wahre Augenweide und bietet Entspannung pur. Um diesen Zustand zu erhalten, ist es jedoch wichtig, dass die Teichanlage regelmäßig gepflegt wird. Im Online-Shop Wassergarten-Profi finden Sie alles, was Sie für eine effektive Teichpflege benötigen. Von Reinigungsgeräten bis hin zu Pflegemitteln – hier können Sie sicher sein, dass Sie Qualitätsprodukte erwerben, die Ihnen lange Freude an Ihrem Teich bereiten werden."
-                    },
-                    {
-                        "title": "Teichfolien & Zubehör",
-                        "text": "Eine robuste Teichfolie ist das Fundament eines jeden Teichs. Im Online-Shop Wassergarten-Profi finden Sie eine große Auswahl an Teichfolien, die für jeden Bedarf das passende Angebot bereithalten. Ob für kleine Teiche oder große Gartenteiche – hier finden Sie garantiert die passende Teichfolie. Zusätzlich bietet der Shop ein umfangreiches Zubehörangebot, das Ihnen bei der Installation und Pflege Ihrer Teichanlage zur Seite steht."
-                    },
-                    {
-                        "title": "Regenwasser-Nutzung",
-                        "text": "Regenwasser ist eine wertvolle Ressource, die es zu schonen gilt. Im Online-Shop Wassergarten-Profi finden Sie eine große Auswahl an Produkten für die <a href=\"/kategorie/regenwasser-nutzung/\" title=\"Regenwasser-Nutzung\">Regenwasser-Nutzung</a>. Von Regentonnen bis hin zu Regenwassersystemen – hier können Sie sicher sein, dass Sie umweltfreundliche und effiziente Lösungen erwerben, die Ihnen dabei helfen, Regenwasser sinnvoll zu nutzen. Sparen Sie Geld und schonen Sie die Umwelt mit den Produkten aus dem Wassergarten-Profi Online-Shop."
-                    },
-                    {
-                        "title": "Regentonnen & Wasserzapfstellen",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/regentonnen-wasserzapfstellen/\" title=\"Regentonnen & Wasserzapfstellen\">Regentonnen & Wasserzapfstellen</a> bietet eine große Auswahl an praktischen Lösungen für die Aufbewahrung und Verteilung von Regenwasser im Garten. Von Regentonnen in verschiedenen Größen und Materialien bis hin zu Wasserzapfstellen mit integrierten Schlauchanschlüssen finden Sie bei uns alles, was Sie für eine effiziente Regenwassernutzung benötigen. Schonen Sie Ihre Umwelt und sparen Sie gleichzeitig bares Geld, indem Sie Regenwasser nutzen, anstatt es ungenutzt ins Abwassersystem zu leiten."
-                    },
-                    {
-                        "title": "Sumpfdotterblume",
-                        "text": "Die <a href=\"/kategorie/sumpfdotterblume/\" title=\"Sumpfdotterblume\">Sumpfdotterblume</a>, auch bekannt als Teichflosse, ist eine attraktive und robuste Pflanze, die sich ideal für den Einsatz im Teich eignet. In unserer Kategorie Sumpfdotterblume bieten wir Ihnen eine breite Auswahl an verschiedenen Sorten und Farben, die Ihren Teich in ein farbenfrohes Schmuckstück verwandeln werden. Die Sumpfdotterblume ist nicht nur eine Augenweide, sondern hilft auch bei der Reinigung des Teichwassers und trägt so zur Gesundheit Ihres Teichökosystems bei."
-                    },
-                    {
-                        "title": "Zubehör für Teichbepflanzung",
-                        "text": "Für eine erfolgreiche Teichbepflanzung benötigen Sie das richtige Zubehör. In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-teichbepflanzung/\" title=\"Zubehör für Teichbepflanzung\">Zubehör für Teichbepflanzung</a> finden Sie alles, was Sie für eine sichere und gesunde Verankerung Ihrer Teichpflanzen benötigen. Von Pflanzkörben über Teichbodenbefestigungen bis hin zu Pflanzerde und Düngemitteln bieten wir Ihnen eine große Auswahl an hochwertigen Produkten, die Ihnen eine einfache und erfolgreiche Teichbepflanzung garantieren."
-                    },
-                    {
-                        "title": "Anschlüsse & Kupplungen",
-                        "text": "Wasser im Garten ist eine wunderbare Sache, aber es kann auch eine Herausforderung sein, es zu verteilen und zu steuern. Um sicherzustellen, dass Sie das Wasser effektiv und effizient nutzen können, bietet Ihnen Wassergarten-Profi die besten Anschlüsse und Kupplungen an. Wir haben eine breite Auswahl an Produkten, die für jede Art von System und jede Art von Bedarf geeignet sind. Schauen Sie sich unsere Produkte an und finden Sie die perfekte Lösung für Ihren Garten."
-                    },
-                    {
-                        "title": "Sprinkler-Systeme",
-                        "text": "Ein Sprinkler-System kann das Leben im Garten erleichtern und es Ihnen ermöglichen, Ihre Pflanzen und Grasflächen bequem und effektiv zu bewässern. Bei Wassergarten-Profi finden Sie eine große Auswahl an <a href=\"/kategorie/sprinkler-systeme/\" title=\"Sprinkler-Systeme\">Sprinkler-Systeme</a>n, die für jede Art von Garten geeignet sind. Ob Sie einen großen Garten haben oder einen kleinen, wir haben das richtige System für Sie. Schauen Sie sich unsere Produkte an und finden Sie das perfekte Sprinkler-System für Ihren Garten."
-                    },
-                    {
-                        "title": "Regner",
-                        "text": "<a href=\"/kategorie/regner/\" title=\"Regner\">Regner</a> sind eine wichtige Komponente jedes Bewässerungssystems. Sie sorgen dafür, dass das Wasser gleichmäßig und effektiv auf Ihre Pflanzen und Grasflächen gelangt. Bei Wassergarten-Profi finden Sie eine große Auswahl an Regnern, die für jede Art von Garten geeignet sind. Ob Sie einen großen oder kleinen Garten haben, wir haben das richtige Produkt für Sie. Schauen Sie sich unsere Regner an und finden Sie das perfekte Produkt für Ihren Garten."
-                    },
-                    {
-                        "title": "Gartenschläuche & Gartenschlauchwagen",
-                        "text": "Der Bereich <a href=\"/kategorie/gartenschlaeuche-gartenschlauchwagen/\" title=\"Gartenschläuche & Gartenschlauchwagen\">Gartenschläuche & Gartenschlauchwagen</a> bei Wassergarten-Profi bietet eine große Auswahl an hochwertigen und langlebigen Gartenschläuchen. Ob für den Einsatz bei der Bewässerung oder zur Reinigung von Gartenmöbeln, hier finden Sie garantiert den passenden Schlauch. Darüber hinaus bieten wir auch praktische Gartenschlauchwagen, die das Aufrollen und Verstauen des Schlauchs erleichtern. Entdecken Sie jetzt unser Angebot und sorgen Sie für eine effiziente und bequeme Bewässerung Ihres Gartens."
-                    },
-                    {
-                        "title": "Gartenschlauchwagen",
-                        "text": "Bei Wassergarten-Profi finden Sie eine große Auswahl an <a href=\"/kategorie/gartenschlauchwagen/\" title=\"Gartenschlauchwagen\">Gartenschlauchwagen</a>, die das Aufrollen und Verstauen von Gartenschläuchen erleichtern. Wir bieten sowohl einfache Handwagen als auch moderne Modelle mit vielen praktischen Funktionen. Entdecken Sie jetzt unser Angebot und finden Sie den passenden Gartenschlauchwagen für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Pumpen & Hauswasserwerke",
-                        "text": "Bei Wassergarten-Profi finden Sie eine große Auswahl an Pumpen und Hauswasserwerken, die für eine effiziente und zuverlässige Bewässerung Ihres Gartens sorgen. Von leistungsstarken Tauchpumpen bis hin zu kompakten Hauswasserwerken bieten wir eine Vielzahl von Lösungen für jeden Bedarf. Entdecken Sie jetzt unser Angebot und sorgen Sie für eine optimale Bewässerung Ihres Gartens."
-                    },
-                    {
-                        "title": "Elektro-Pumpen & Hauswasserwerke",
-                        "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/elektro-pumpen-hauswasserwerke/\" title=\"Elektro-Pumpen & Hauswasserwerke\">Elektro-Pumpen & Hauswasserwerke</a> eine große Auswahl an hochwertigen Produkten. Ob für den Hausgebrauch oder den landwirtschaftlichen Einsatz, wir bieten Ihnen eine breite Palette an Elektropumpen und Hauswasserwerken. Alle Produkte überzeugen durch ihre hohe Effizienz und Langlebigkeit. Überzeugen Sie sich selbst und finden Sie jetzt die perfekte Pumpe für Ihre Anforderungen."
-                    },
-                    {
-                        "title": "Bewässerungscomputer",
-                        "text": "Mit einem <a href=\"/kategorie/bewaesserungscomputer/\" title=\"Bewässerungscomputer\">Bewässerungscomputer</a> haben Sie die Möglichkeit, Ihre Bewässerung automatisch zu steuern. Durch die Verwendung von Sensoren und Regnerzeitplänen kann die Bewässerung präzise gesteuert werden. Vermeiden Sie Über- oder Unterbewässerung und sparen Sie Zeit und Wasser. Entdecken Sie jetzt in unserer Kategorie Bewässerungscomputer die besten Produkte auf dem Markt."
-                    },
-                    {
-                        "title": "Zubehör für Regentonnen & Wasserzapfstellen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-regentonnen-wasserzapfstellen/\" title=\"Zubehör für Regentonnen & Wasserzapfstellen\">Zubehör für Regentonnen & Wasserzapfstellen</a> finden Sie alles, was Sie für den Betrieb Ihrer Regentonnen und Wasserzapfstellen benötigen. Von Adapter und Schläuchen bis hin zu Armaturen und Überdruckventilen bieten wir Ihnen eine breite Auswahl an Zubehörprodukten. Alle Produkte überzeugen durch ihre hohe Qualität und Langlebigkeit. Entdecken Sie jetzt unser Angebot."
-                    },
-                    {
-                        "title": "Gartenschläuche",
-                        "text": "Der Gartenschlauch ist das wichtigste Werkzeug für jeden Gärtner, um seine Pflanzen und seinen Garten zu bewässern. Bei uns finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/gartenschlaeuche/\" title=\"Gartenschläuche\">Gartenschläuche</a>n in unterschiedlichen Längen und Durchmessern. Ob Sie einen kurzen Schlauch für den Balkon benötigen oder einen langen für den Garten, wir haben das passende Modell für Sie. Alle unsere Gartenschläuche sind robust und langlebig, so dass Sie lange Freude an Ihrem neuen Gartenschlauch haben werden."
-                    },
-                    {
-                        "title": "Gartenspritzen & Gartenbrausen",
-                        "text": "Für eine gezielte und effektive Bewässerung Ihrer Pflanzen und Ihres Gartens bieten wir Ihnen eine große Auswahl an Gartenspritzen und Gartenbrausen. Ob Sie eine Gartenspritze für das direkte Bewässern Ihrer Pflanzen benötigen oder eine Gartenbrause für eine sanfte Bewässerung, wir haben das passende Produkt für Sie. Alle unsere Gartenspritzen und Gartenbrausen sind hochwertig und langlebig, so dass Sie lange Freude an Ihrem neuen Gartengerät haben werden."
-                    },
-                    {
-                        "title": "Weitere Teichpflanzen",
-                        "text": "Ein Garten mit Wasser zieht nicht nur Menschen an, sondern auch viele Tiere und Pflanzen. Um Ihren Teich noch attraktiver zu gestalten, bieten wir Ihnen eine große Auswahl an weiteren Teichpflanzen. Ob Sie auf der Suche nach einer neuen Teichpflanze für Ihren Teich oder einer Pflanze für den Uferbereich sind, wir haben das passende Produkt für Sie. Alle unsere Teichpflanzen sind hochwertig und gesund, so dass Sie lange Freude an Ihren neuen Pflanzen haben werden."
-                    },
-                    {
-                        "title": "Zubehör für Pumpen & Hauswasserwerke",
-                        "text": "Entdecken Sie das umfangreiche <a href=\"/kategorie/zubehoer-fuer-pumpen-hauswasserwerke/\" title=\"Zubehör für Pumpen & Hauswasserwerke\">Zubehör für Pumpen & Hauswasserwerke</a> auf Wassergarten-Profi.de. Von Anschlüssen und Kupplungen bis hin zu Reinigungsgeräten bieten wir Ihnen alles, was Sie für den Betrieb Ihrer Pumpe benötigen. Überzeugen Sie sich selbst von der hohen Qualität unserer Produkte und bestellen Sie jetzt online."
-                    },
-                    {
-                        "title": "Kaltwassersysteme",
-                        "text": "Erfrischen Sie Ihren Garten mit einem Kaltwassersystem von Wassergarten-Profi.de. Wir bieten Ihnen eine große Auswahl an Systemen, die für jeden Bedarf und jede Größe geeignet sind. Ob für den Einsatz im Garten, auf der Terrasse oder am Pool, mit unseren <a href=\"/kategorie/kaltwassersysteme/\" title=\"Kaltwassersysteme\">Kaltwassersysteme</a>n wird Ihr Garten zu einem echten Wohlfühlort."
-                    },
-                    {
-                        "title": "Teichpumpen & Filter",
-                        "text": "Auf Wassergarten-Profi.de finden Sie eine große Auswahl an Teichpumpen und Filtern. Ob Sie eine kleine Teichpumpe für Ihren Gartenteich benötigen oder eine leistungsstarke Pumpe für Ihren großen Teich, wir haben das passende Modell für Sie. Überzeugen Sie sich selbst von der hohen Qualität und Funktionalität unserer Teichpumpen und bestellen Sie jetzt online."
-                    },
-                    {
-                        "title": "Erdtanks",
-                        "text": "<a href=\"/kategorie/erdtanks/\" title=\"Erdtanks\">Erdtanks</a> sind eine praktische Lösung für das Sammeln und Speichern von Regenwasser im Garten. Mit unseren Erdtanks können Sie Wasser effizient und umweltfreundlich nutzen, um Ihren Garten zu bewässern. Wir bieten eine große Auswahl an verschiedenen Größen und Materialien, um jedem Bedarf gerecht zu werden."
-                    },
-                    {
-                        "title": "Binse",
-                        "text": "Die <a href=\"/kategorie/binse/\" title=\"Binse\">Binse</a> ist eine wichtige Pflanze für den natürlichen Teichbau. Sie dient als Schutz für Fische und andere Lebewesen im Teich und trägt zur Reinigung des Wassers bei. Bei uns finden Sie eine große Auswahl an Binse in verschiedenen Größen und Farben, um Ihren Teich natürlich und ästhetisch ansprechend zu gestalten."
-                    },
-                    {
-                        "title": "Zubehör für Erdtanks",
-                        "text": "Das <a href=\"/kategorie/zubehoer-fuer-erdtanks/\" title=\"Zubehör für Erdtanks\">Zubehör für Erdtanks</a> ist ebenso wichtig wie die Tanks selbst. Es sorgt dafür, dass das Wasser effizient und hygienisch gelagert wird. Wir bieten eine große Auswahl an Zubehör wie Deckel, Filter, Überlaufeinheiten und vieles mehr, um Ihnen eine komplette Lösung für das Sammeln und Speichern von Regenwasser im Garten zu bieten."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Wasser im Garten | Der Online Shop",
-            "metaDescription": "Bei uns erhältlich! | Alles rund um das Thema Wasser im Garten | Viele Kategorien wie: Teich, Pflanzen, Bewässerung, Wassertanks uvm. | Bequem online kaufen!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Wasser im Garten: Die besten Hersteller",
-            "metaDescription": "Sie haben ein Projekt, das sich um Wasser im Garten dreht? Bei uns finden Sie die besten Hersteller: Gardena, Kärcher, Bosch, Makita, Fiskars, Einhell uvm.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine gute Wahl für Ihren Garten. Entdecken Sie auch tolle weitere Produkte der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "wassergarten-profi.de",
+  "hostname": "https://www.wassergarten-profi.de/",
+  "email": "wassergarten-profi.de@surrealnetworks.io",
+  "organization": "wassergarten-profi.de",
+  "logoText": "Wassergarten-profi.de",
+  "title": "Wasser im Garten",
+  "subline": "Der Online Shop f\u00fcr Wasser im Garten",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "4794111",
+    "7172000",
+    "2521573",
+    "3636941",
+    "2521466",
+    "8727406"
+  ],
+  "winnerProducts": [
+    "9418922",
+    "5087135",
+    "2048874"
+  ],
+  "featuredCategories": [
+    "Teichpflanzen",
+    "Pumpen & Hauswasserwerke",
+    "Regenwasser-Nutzung",
+    "Micro-Drip-Systeme",
+    "Weitere Teichpflanzen",
+    "Kaltwassersysteme"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Wasser im Garten",
+    "featureText": "<p>Willkommen in unserem Shop! Bei uns finden Sie ein umfangreichens Angebot zum Thema Wasser in Ihrem Garten! Ein kleiner nicht abschlie\u00dfender Abriss unseres Angebots:</p>\n<p>- Alles rund um den Teich, etwa Becken, Folie, Pumpen, Beleuchtung, Bel\u00fcftung, Reinigung etc.</p>\n<p>- Eine gro\u00dfe Auswahl an Wasspflanzen, wie Teichpflanzen, Schwimmpflanzen, Seerosen und viele mehr.</p>\n<p>- Regentonnen & Wasserzapfstellen, Sprinkler-Systeme, Gartenschl\u00e4uche uvm.</p>\n<p>Unser Sortiment ist sortiert in entsprechende Kategorien und nach Herstellern. Klicken Sie sich gerne einmal durch unseren Shop!</p>\n",
+    "index": {
+      "title": "Wasser im Garten | Umfangreiches Sortiment",
+      "metaDescription": "Gartenschl\u00e4uche \u2022 Gartenbrausen \u2022 Sprinkler-Systeme \u2022 Bew\u00e4sserungssysteme \u2022 Teichbecken, -folie, -beleuchtung, -pumpen, -pflanzen \u2022 Gartenbrunnen uvm.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Wassergarten-Profi",
+            "text": "Herzlich Willkommen auf Wassergarten-Profi, Ihrem Online-Shop f\u00fcr alles rund um das Thema Wasser im Garten. Bei uns finden Sie eine gro\u00dfe Auswahl an Produkten, um Ihren Garten in eine Oase der Entspannung zu verwandeln. Ob Sie einen Teich, einen Bachlauf, einen Gartenbrunnen oder eine Teichbeleuchtung m\u00f6chten, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen auch eine gro\u00dfe Auswahl an Teichpflanzen, Schwimmpflanzen und Sauerstoffpflanzen, um Ihren Teich zu einem Paradies f\u00fcr Fische und andere Wasserlebewesen zu gestalten. Entdecken Sie bei uns die Welt des Wassers im Garten und lassen Sie sich von uns inspirieren."
+          },
+          {
+            "title": "Rund um den Teich",
+            "text": "Der Bereich '<a href=\"/kategorie/rund-um-den-teich/\" title=\"Rund um den Teich\">Rund um den Teich</a>' beinhaltet alles, was Sie f\u00fcr Ihren Teich ben\u00f6tigen. Hier finden Sie Teichfolien, Teichpumpen und Teichfilter, um Ihren Teich sauber und gesund zu halten. Auch Teichzubeh\u00f6r wie Teichnetze, Teichschutz und Teichb\u00f6den sind hier erh\u00e4ltlich. St\u00f6bern Sie durch unser umfangreiches Angebot und finden Sie alles, was Sie f\u00fcr Ihren Wasser-Garten ben\u00f6tigen."
+          },
+          {
+            "title": "Teichpflanzen",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/teichpflanzen/\" title=\"Teichpflanzen\">Teichpflanzen</a>' finden Sie eine gro\u00dfe Auswahl an Wasserpflanzen f\u00fcr Ihren Teich. Ob Sie nach Sauerstoffpflanzen, Uferpflanzen oder Schwimmpflanzen suchen, hier werden Sie f\u00fcndig. Wir bieten eine breite Palette an Teichpflanzen in verschiedenen Gr\u00f6\u00dfen und Farben, damit Sie Ihren Teich individuell gestalten k\u00f6nnen. Lassen Sie Ihrer Kreativit\u00e4t freien Lauf und schaffen Sie sich ein wundersch\u00f6nes Wasserparadies."
+          },
+          {
+            "title": "Schwimmpflanzen & Sauerstoffpflanzen",
+            "text": "Schwimmpflanzen und Sauerstoffpflanzen sind unverzichtbar f\u00fcr einen gesunden Teich. Sie helfen dabei, das Wasser sauber und klar zu halten und sorgen f\u00fcr eine ausreichende Sauerstoffversorgung. In unserer Kategorie '<a href=\"/kategorie/schwimmpflanzen-sauerstoffpflanzen/\" title=\"Schwimmpflanzen & Sauerstoffpflanzen\">Schwimmpflanzen & Sauerstoffpflanzen</a>' finden Sie eine gro\u00dfe Auswahl an Pflanzen, die speziell f\u00fcr den Einsatz im Teich entwickelt wurden. Lassen Sie sich von unserem Angebot inspirieren und gestalten Sie Ihren Teich mit den richtigen Pflanzen."
+          },
+          {
+            "title": "Teichbeleuchtung f\u00fcr eine stilvolle Atmosph\u00e4re im Garten",
+            "text": "Lassen Sie Ihren Teich in einem neuen Licht erstrahlen mit unserer gro\u00dfen Auswahl an Teichbeleuchtung. Ob Sie eine einzelne Lampe oder eine komplette Beleuchtungsl\u00f6sung suchen, bei uns finden Sie alles, was Sie brauchen, um Ihren Garten in eine wundersch\u00f6ne Oase zu verwandeln. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Farben, um die perfekte Beleuchtung f\u00fcr Ihren Teich zu finden. Bestellen Sie noch heute und erleben Sie den Unterschied!"
+          },
+          {
+            "title": "Kalmus f\u00fcr eine nat\u00fcrliche Teichumgebung",
+            "text": "Der Kalmus ist eine wertvolle Pflanze f\u00fcr jeden Teich. Nicht nur, dass es eine attraktive und dekorative Erg\u00e4nzung zu Ihrem Garten ist, es hilft auch, das Wasser kristallklar zu halten, indem es Algen und andere unerw\u00fcnschte Pflanzen reduziert. Wir bieten eine gro\u00dfe Auswahl an Kalmus in verschiedenen Gr\u00f6\u00dfen und Farben, um Ihren Teich in eine nat\u00fcrliche Umgebung zu verwandeln. Bestellen Sie noch heute und genie\u00dfen Sie die Vorteile des Kalmus im eigenen Garten!"
+          },
+          {
+            "title": "Seerosen f\u00fcr eine idyllische Teichumgebung",
+            "text": "Seerosen sind eine wunderbare Erg\u00e4nzung zu jedem Teich. Sie schaffen eine idyllische Umgebung, indem sie das Wasser mit ihren gro\u00dfen, weichen Bl\u00e4ttern und ihren farbenfrohen Bl\u00fcten schm\u00fccken. Wir bieten eine gro\u00dfe Auswahl an Seerosen in verschiedenen Gr\u00f6\u00dfen und Farben, um Ihren Teich in eine echte Oase zu verwandeln. Bestellen Sie noch heute und erleben Sie die Sch\u00f6nheit der Seerosen im eigenen Garten!"
+          },
+          {
+            "title": "Teichdeko & Wasserspiele",
+            "text": "Erwecken Sie Ihren Teich mit unseren Teichdeko- und Wasserspiel-Produkten zum Leben. Wir bieten eine gro\u00dfe Auswahl an sch\u00f6nen und funktionalen Artikeln, die Ihren Teich nicht nur optisch aufwerten, sondern auch ein besonderes Erlebnis f\u00fcr Sie und Ihre G\u00e4ste schaffen werden. Von Springbrunnen bis hin zu Teichfiguren und -laternen - hier finden Sie alles, um Ihren Teich zu einem Highlight im Garten zu machen."
+          },
+          {
+            "title": "Teichbel\u00fcftung",
+            "text": "Eine gute <a href=\"/kategorie/teichbelueftung/\" title=\"Teichbel\u00fcftung\">Teichbel\u00fcftung</a> ist f\u00fcr ein gesundes Teich\u00f6kosystem unerl\u00e4sslich. Wir bieten Ihnen eine gro\u00dfe Auswahl an Teichbel\u00fcftungssystemen, die Ihnen dabei helfen, das Wasser sauber und kl\u00e4r zu halten. Von Luftpumpen bis hin zu Luftdiffusoren - wir haben die richtige L\u00f6sung f\u00fcr jeden Bedarf. Schauen Sie sich jetzt unser Angebot an und verbessern Sie die Wasserqualit\u00e4t in Ihrem Teich."
+          },
+          {
+            "title": "Teichbecken & Bachl\u00e4ufe",
+            "text": "Erwecken Sie Ihren Garten mit unseren Teichbecken und Bachl\u00e4ufen zum Leben. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, Ihren Traum von einem Wasserparadies im Garten zu verwirklichen. Von Teichbecken bis hin zu Bachl\u00e4ufen - wir haben die richtige L\u00f6sung f\u00fcr jeden Bedarf. Schauen Sie sich jetzt unser Angebot an und bringen Sie Abwechslung und Ruhe in Ihren Garten."
+          },
+          {
+            "title": "Gartenbrunnen - Der Wasser-Hingucker im Garten",
+            "text": "Ein Gartenbrunnen ist das Highlight jedes Gartens. Der Klang von sprudelndem Wasser verleiht dem Garten eine besondere Atmosph\u00e4re und sorgt f\u00fcr Entspannung. Bei uns finden Sie eine gro\u00dfe Auswahl an Gartenbrunnen in verschiedenen Gr\u00f6\u00dfen, Formen und Materialien. Von klassischen Brunnen aus Stein bis hin zu modernen Edelstahl-Brunnen \u2013 hier werden Sie garantiert f\u00fcndig. Lassen Sie sich von uns inspirieren und schaffen Sie sich eine Oase der Ruhe im eigenen Garten."
+          },
+          {
+            "title": "Bew\u00e4sserungssysteme - Pflanzen und Garten perfekt versorgen",
+            "text": "Eine ausreichende Bew\u00e4sserung ist f\u00fcr einen gesunden Garten unerl\u00e4sslich. Mit einem Bew\u00e4sserungssystem k\u00f6nnen Sie ganz einfach und bequem Ihre Pflanzen und den Garten bew\u00e4ssern. Ob automatisches Bew\u00e4sserungssystem oder manuelle Bew\u00e4sserung \u2013 bei uns finden Sie das passende System f\u00fcr Ihren Garten. \u00dcberzeugen Sie sich selbst von der Vielfalt an Bew\u00e4sserungsl\u00f6sungen und optimieren Sie die Wasserversorgung Ihres Gartens."
+          },
+          {
+            "title": "Micro-Drip-Systeme - Wasser sparen im Garten",
+            "text": "Mit einem Micro-Drip-System k\u00f6nnen Sie Wasser im Garten effizient und gezielt einsetzen. Die Tropfeinrichtung sorgt daf\u00fcr, dass das Wasser direkt an der Wurzel der Pflanzen ankommt und nicht unn\u00f6tig verdunstet. So sparen Sie nicht nur Wasser, sondern auch Zeit und M\u00fche bei der Bew\u00e4sserung. Entdecken Sie die Vorteile von Micro-Drip-Systemen und machen Sie Ihren Garten zu einem \u00f6kologisch nachhaltigen Paradies."
+          },
+          {
+            "title": "Teichpflege & Teichreinigung",
+            "text": "Wasser im Garten ist eine wahre Augenweide und bietet Entspannung pur. Um diesen Zustand zu erhalten, ist es jedoch wichtig, dass die Teichanlage regelm\u00e4\u00dfig gepflegt wird. Im Online-Shop Wassergarten-Profi finden Sie alles, was Sie f\u00fcr eine effektive Teichpflege ben\u00f6tigen. Von Reinigungsger\u00e4ten bis hin zu Pflegemitteln \u2013 hier k\u00f6nnen Sie sicher sein, dass Sie Qualit\u00e4tsprodukte erwerben, die Ihnen lange Freude an Ihrem Teich bereiten werden."
+          },
+          {
+            "title": "Teichfolien & Zubeh\u00f6r",
+            "text": "Eine robuste Teichfolie ist das Fundament eines jeden Teichs. Im Online-Shop Wassergarten-Profi finden Sie eine gro\u00dfe Auswahl an Teichfolien, die f\u00fcr jeden Bedarf das passende Angebot bereithalten. Ob f\u00fcr kleine Teiche oder gro\u00dfe Gartenteiche \u2013 hier finden Sie garantiert die passende Teichfolie. Zus\u00e4tzlich bietet der Shop ein umfangreiches Zubeh\u00f6rangebot, das Ihnen bei der Installation und Pflege Ihrer Teichanlage zur Seite steht."
+          },
+          {
+            "title": "Regenwasser-Nutzung",
+            "text": "Regenwasser ist eine wertvolle Ressource, die es zu schonen gilt. Im Online-Shop Wassergarten-Profi finden Sie eine gro\u00dfe Auswahl an Produkten f\u00fcr die <a href=\"/kategorie/regenwasser-nutzung/\" title=\"Regenwasser-Nutzung\">Regenwasser-Nutzung</a>. Von Regentonnen bis hin zu Regenwassersystemen \u2013 hier k\u00f6nnen Sie sicher sein, dass Sie umweltfreundliche und effiziente L\u00f6sungen erwerben, die Ihnen dabei helfen, Regenwasser sinnvoll zu nutzen. Sparen Sie Geld und schonen Sie die Umwelt mit den Produkten aus dem Wassergarten-Profi Online-Shop."
+          },
+          {
+            "title": "Regentonnen & Wasserzapfstellen",
+            "text": "Unsere Kategorie <a href=\"/kategorie/regentonnen-wasserzapfstellen/\" title=\"Regentonnen & Wasserzapfstellen\">Regentonnen & Wasserzapfstellen</a> bietet eine gro\u00dfe Auswahl an praktischen L\u00f6sungen f\u00fcr die Aufbewahrung und Verteilung von Regenwasser im Garten. Von Regentonnen in verschiedenen Gr\u00f6\u00dfen und Materialien bis hin zu Wasserzapfstellen mit integrierten Schlauchanschl\u00fcssen finden Sie bei uns alles, was Sie f\u00fcr eine effiziente Regenwassernutzung ben\u00f6tigen. Schonen Sie Ihre Umwelt und sparen Sie gleichzeitig bares Geld, indem Sie Regenwasser nutzen, anstatt es ungenutzt ins Abwassersystem zu leiten."
+          },
+          {
+            "title": "Sumpfdotterblume",
+            "text": "Die <a href=\"/kategorie/sumpfdotterblume/\" title=\"Sumpfdotterblume\">Sumpfdotterblume</a>, auch bekannt als Teichflosse, ist eine attraktive und robuste Pflanze, die sich ideal f\u00fcr den Einsatz im Teich eignet. In unserer Kategorie Sumpfdotterblume bieten wir Ihnen eine breite Auswahl an verschiedenen Sorten und Farben, die Ihren Teich in ein farbenfrohes Schmuckst\u00fcck verwandeln werden. Die Sumpfdotterblume ist nicht nur eine Augenweide, sondern hilft auch bei der Reinigung des Teichwassers und tr\u00e4gt so zur Gesundheit Ihres Teich\u00f6kosystems bei."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Teichbepflanzung",
+            "text": "F\u00fcr eine erfolgreiche Teichbepflanzung ben\u00f6tigen Sie das richtige Zubeh\u00f6r. In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-teichbepflanzung/\" title=\"Zubeh\u00f6r f\u00fcr Teichbepflanzung\">Zubeh\u00f6r f\u00fcr Teichbepflanzung</a> finden Sie alles, was Sie f\u00fcr eine sichere und gesunde Verankerung Ihrer Teichpflanzen ben\u00f6tigen. Von Pflanzk\u00f6rben \u00fcber Teichbodenbefestigungen bis hin zu Pflanzerde und D\u00fcngemitteln bieten wir Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten, die Ihnen eine einfache und erfolgreiche Teichbepflanzung garantieren."
+          },
+          {
+            "title": "Anschl\u00fcsse & Kupplungen",
+            "text": "Wasser im Garten ist eine wunderbare Sache, aber es kann auch eine Herausforderung sein, es zu verteilen und zu steuern. Um sicherzustellen, dass Sie das Wasser effektiv und effizient nutzen k\u00f6nnen, bietet Ihnen Wassergarten-Profi die besten Anschl\u00fcsse und Kupplungen an. Wir haben eine breite Auswahl an Produkten, die f\u00fcr jede Art von System und jede Art von Bedarf geeignet sind. Schauen Sie sich unsere Produkte an und finden Sie die perfekte L\u00f6sung f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Sprinkler-Systeme",
+            "text": "Ein Sprinkler-System kann das Leben im Garten erleichtern und es Ihnen erm\u00f6glichen, Ihre Pflanzen und Grasfl\u00e4chen bequem und effektiv zu bew\u00e4ssern. Bei Wassergarten-Profi finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/sprinkler-systeme/\" title=\"Sprinkler-Systeme\">Sprinkler-Systeme</a>n, die f\u00fcr jede Art von Garten geeignet sind. Ob Sie einen gro\u00dfen Garten haben oder einen kleinen, wir haben das richtige System f\u00fcr Sie. Schauen Sie sich unsere Produkte an und finden Sie das perfekte Sprinkler-System f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Regner",
+            "text": "<a href=\"/kategorie/regner/\" title=\"Regner\">Regner</a> sind eine wichtige Komponente jedes Bew\u00e4sserungssystems. Sie sorgen daf\u00fcr, dass das Wasser gleichm\u00e4\u00dfig und effektiv auf Ihre Pflanzen und Grasfl\u00e4chen gelangt. Bei Wassergarten-Profi finden Sie eine gro\u00dfe Auswahl an Regnern, die f\u00fcr jede Art von Garten geeignet sind. Ob Sie einen gro\u00dfen oder kleinen Garten haben, wir haben das richtige Produkt f\u00fcr Sie. Schauen Sie sich unsere Regner an und finden Sie das perfekte Produkt f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Gartenschl\u00e4uche & Gartenschlauchwagen",
+            "text": "Der Bereich <a href=\"/kategorie/gartenschlaeuche-gartenschlauchwagen/\" title=\"Gartenschl\u00e4uche & Gartenschlauchwagen\">Gartenschl\u00e4uche & Gartenschlauchwagen</a> bei Wassergarten-Profi bietet eine gro\u00dfe Auswahl an hochwertigen und langlebigen Gartenschl\u00e4uchen. Ob f\u00fcr den Einsatz bei der Bew\u00e4sserung oder zur Reinigung von Gartenm\u00f6beln, hier finden Sie garantiert den passenden Schlauch. Dar\u00fcber hinaus bieten wir auch praktische Gartenschlauchwagen, die das Aufrollen und Verstauen des Schlauchs erleichtern. Entdecken Sie jetzt unser Angebot und sorgen Sie f\u00fcr eine effiziente und bequeme Bew\u00e4sserung Ihres Gartens."
+          },
+          {
+            "title": "Gartenschlauchwagen",
+            "text": "Bei Wassergarten-Profi finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/gartenschlauchwagen/\" title=\"Gartenschlauchwagen\">Gartenschlauchwagen</a>, die das Aufrollen und Verstauen von Gartenschl\u00e4uchen erleichtern. Wir bieten sowohl einfache Handwagen als auch moderne Modelle mit vielen praktischen Funktionen. Entdecken Sie jetzt unser Angebot und finden Sie den passenden Gartenschlauchwagen f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Pumpen & Hauswasserwerke",
+            "text": "Bei Wassergarten-Profi finden Sie eine gro\u00dfe Auswahl an Pumpen und Hauswasserwerken, die f\u00fcr eine effiziente und zuverl\u00e4ssige Bew\u00e4sserung Ihres Gartens sorgen. Von leistungsstarken Tauchpumpen bis hin zu kompakten Hauswasserwerken bieten wir eine Vielzahl von L\u00f6sungen f\u00fcr jeden Bedarf. Entdecken Sie jetzt unser Angebot und sorgen Sie f\u00fcr eine optimale Bew\u00e4sserung Ihres Gartens."
+          },
+          {
+            "title": "Elektro-Pumpen & Hauswasserwerke",
+            "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/elektro-pumpen-hauswasserwerke/\" title=\"Elektro-Pumpen & Hauswasserwerke\">Elektro-Pumpen & Hauswasserwerke</a> eine gro\u00dfe Auswahl an hochwertigen Produkten. Ob f\u00fcr den Hausgebrauch oder den landwirtschaftlichen Einsatz, wir bieten Ihnen eine breite Palette an Elektropumpen und Hauswasserwerken. Alle Produkte \u00fcberzeugen durch ihre hohe Effizienz und Langlebigkeit. \u00dcberzeugen Sie sich selbst und finden Sie jetzt die perfekte Pumpe f\u00fcr Ihre Anforderungen."
+          },
+          {
+            "title": "Bew\u00e4sserungscomputer",
+            "text": "Mit einem <a href=\"/kategorie/bewaesserungscomputer/\" title=\"Bew\u00e4sserungscomputer\">Bew\u00e4sserungscomputer</a> haben Sie die M\u00f6glichkeit, Ihre Bew\u00e4sserung automatisch zu steuern. Durch die Verwendung von Sensoren und Regnerzeitpl\u00e4nen kann die Bew\u00e4sserung pr\u00e4zise gesteuert werden. Vermeiden Sie \u00dcber- oder Unterbew\u00e4sserung und sparen Sie Zeit und Wasser. Entdecken Sie jetzt in unserer Kategorie Bew\u00e4sserungscomputer die besten Produkte auf dem Markt."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Regentonnen & Wasserzapfstellen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-regentonnen-wasserzapfstellen/\" title=\"Zubeh\u00f6r f\u00fcr Regentonnen & Wasserzapfstellen\">Zubeh\u00f6r f\u00fcr Regentonnen & Wasserzapfstellen</a> finden Sie alles, was Sie f\u00fcr den Betrieb Ihrer Regentonnen und Wasserzapfstellen ben\u00f6tigen. Von Adapter und Schl\u00e4uchen bis hin zu Armaturen und \u00dcberdruckventilen bieten wir Ihnen eine breite Auswahl an Zubeh\u00f6rprodukten. Alle Produkte \u00fcberzeugen durch ihre hohe Qualit\u00e4t und Langlebigkeit. Entdecken Sie jetzt unser Angebot."
+          },
+          {
+            "title": "Gartenschl\u00e4uche",
+            "text": "Der Gartenschlauch ist das wichtigste Werkzeug f\u00fcr jeden G\u00e4rtner, um seine Pflanzen und seinen Garten zu bew\u00e4ssern. Bei uns finden Sie eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/gartenschlaeuche/\" title=\"Gartenschl\u00e4uche\">Gartenschl\u00e4uche</a>n in unterschiedlichen L\u00e4ngen und Durchmessern. Ob Sie einen kurzen Schlauch f\u00fcr den Balkon ben\u00f6tigen oder einen langen f\u00fcr den Garten, wir haben das passende Modell f\u00fcr Sie. Alle unsere Gartenschl\u00e4uche sind robust und langlebig, so dass Sie lange Freude an Ihrem neuen Gartenschlauch haben werden."
+          },
+          {
+            "title": "Gartenspritzen & Gartenbrausen",
+            "text": "F\u00fcr eine gezielte und effektive Bew\u00e4sserung Ihrer Pflanzen und Ihres Gartens bieten wir Ihnen eine gro\u00dfe Auswahl an Gartenspritzen und Gartenbrausen. Ob Sie eine Gartenspritze f\u00fcr das direkte Bew\u00e4ssern Ihrer Pflanzen ben\u00f6tigen oder eine Gartenbrause f\u00fcr eine sanfte Bew\u00e4sserung, wir haben das passende Produkt f\u00fcr Sie. Alle unsere Gartenspritzen und Gartenbrausen sind hochwertig und langlebig, so dass Sie lange Freude an Ihrem neuen Gartenger\u00e4t haben werden."
+          },
+          {
+            "title": "Weitere Teichpflanzen",
+            "text": "Ein Garten mit Wasser zieht nicht nur Menschen an, sondern auch viele Tiere und Pflanzen. Um Ihren Teich noch attraktiver zu gestalten, bieten wir Ihnen eine gro\u00dfe Auswahl an weiteren Teichpflanzen. Ob Sie auf der Suche nach einer neuen Teichpflanze f\u00fcr Ihren Teich oder einer Pflanze f\u00fcr den Uferbereich sind, wir haben das passende Produkt f\u00fcr Sie. Alle unsere Teichpflanzen sind hochwertig und gesund, so dass Sie lange Freude an Ihren neuen Pflanzen haben werden."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Pumpen & Hauswasserwerke",
+            "text": "Entdecken Sie das umfangreiche <a href=\"/kategorie/zubehoer-fuer-pumpen-hauswasserwerke/\" title=\"Zubeh\u00f6r f\u00fcr Pumpen & Hauswasserwerke\">Zubeh\u00f6r f\u00fcr Pumpen & Hauswasserwerke</a> auf Wassergarten-Profi.de. Von Anschl\u00fcssen und Kupplungen bis hin zu Reinigungsger\u00e4ten bieten wir Ihnen alles, was Sie f\u00fcr den Betrieb Ihrer Pumpe ben\u00f6tigen. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t unserer Produkte und bestellen Sie jetzt online."
+          },
+          {
+            "title": "Kaltwassersysteme",
+            "text": "Erfrischen Sie Ihren Garten mit einem Kaltwassersystem von Wassergarten-Profi.de. Wir bieten Ihnen eine gro\u00dfe Auswahl an Systemen, die f\u00fcr jeden Bedarf und jede Gr\u00f6\u00dfe geeignet sind. Ob f\u00fcr den Einsatz im Garten, auf der Terrasse oder am Pool, mit unseren <a href=\"/kategorie/kaltwassersysteme/\" title=\"Kaltwassersysteme\">Kaltwassersysteme</a>n wird Ihr Garten zu einem echten Wohlf\u00fchlort."
+          },
+          {
+            "title": "Teichpumpen & Filter",
+            "text": "Auf Wassergarten-Profi.de finden Sie eine gro\u00dfe Auswahl an Teichpumpen und Filtern. Ob Sie eine kleine Teichpumpe f\u00fcr Ihren Gartenteich ben\u00f6tigen oder eine leistungsstarke Pumpe f\u00fcr Ihren gro\u00dfen Teich, wir haben das passende Modell f\u00fcr Sie. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t und Funktionalit\u00e4t unserer Teichpumpen und bestellen Sie jetzt online."
+          },
+          {
+            "title": "Erdtanks",
+            "text": "<a href=\"/kategorie/erdtanks/\" title=\"Erdtanks\">Erdtanks</a> sind eine praktische L\u00f6sung f\u00fcr das Sammeln und Speichern von Regenwasser im Garten. Mit unseren Erdtanks k\u00f6nnen Sie Wasser effizient und umweltfreundlich nutzen, um Ihren Garten zu bew\u00e4ssern. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Materialien, um jedem Bedarf gerecht zu werden."
+          },
+          {
+            "title": "Binse",
+            "text": "Die <a href=\"/kategorie/binse/\" title=\"Binse\">Binse</a> ist eine wichtige Pflanze f\u00fcr den nat\u00fcrlichen Teichbau. Sie dient als Schutz f\u00fcr Fische und andere Lebewesen im Teich und tr\u00e4gt zur Reinigung des Wassers bei. Bei uns finden Sie eine gro\u00dfe Auswahl an Binse in verschiedenen Gr\u00f6\u00dfen und Farben, um Ihren Teich nat\u00fcrlich und \u00e4sthetisch ansprechend zu gestalten."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Erdtanks",
+            "text": "Das <a href=\"/kategorie/zubehoer-fuer-erdtanks/\" title=\"Zubeh\u00f6r f\u00fcr Erdtanks\">Zubeh\u00f6r f\u00fcr Erdtanks</a> ist ebenso wichtig wie die Tanks selbst. Es sorgt daf\u00fcr, dass das Wasser effizient und hygienisch gelagert wird. Wir bieten eine gro\u00dfe Auswahl an Zubeh\u00f6r wie Deckel, Filter, \u00dcberlaufeinheiten und vieles mehr, um Ihnen eine komplette L\u00f6sung f\u00fcr das Sammeln und Speichern von Regenwasser im Garten zu bieten."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - viele Top Produkte",
-        "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. | Bei uns finden Sie das passende Produkt! | Entdecken Sie auch weitere Kategorien zu Wasser im Garten.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Wasser im Garten | Der Online Shop",
+      "metaDescription": "Bei uns erh\u00e4ltlich! | Alles rund um das Thema Wasser im Garten | Viele Kategorien wie: Teich, Pflanzen, Bew\u00e4sserung, Wassertanks uvm. | Bequem online kaufen!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Top Marken zum fairen Preis",
-        "defaultMetaDescription": "$HERSTELLER ist ein namhafter Hersteller für Produkte im Bereich Wasser im Garten! | Finden Sie bei uns neben $HERSTELLER weitere Top Hersteller!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Wasser im Garten",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Wasser im Garten Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Wasser im Garten Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Wasser im Garten: Die besten Hersteller",
+      "metaDescription": "Sie haben ein Projekt, das sich um Wasser im Garten dreht? Bei uns finden Sie die besten Hersteller: Gardena, K\u00e4rcher, Bosch, Makita, Fiskars, Einhell uvm.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine gute Wahl f\u00fcr Ihren Garten. Entdecken Sie auch tolle weitere Produkte der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - viele Top Produkte",
+    "defaultMetaDescription": "$KATEGORIE: Alles rund um das Thema Wasser im Garten. | Bei uns finden Sie das passende Produkt! | Entdecken Sie auch weitere Kategorien zu Wasser im Garten.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Top Marken zum fairen Preis",
+    "defaultMetaDescription": "$HERSTELLER ist ein namhafter Hersteller f\u00fcr Produkte im Bereich Wasser im Garten! | Finden Sie bei uns neben $HERSTELLER weitere Top Hersteller!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Wasser im Garten",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Wasser im Garten Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Wasser im Garten Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
